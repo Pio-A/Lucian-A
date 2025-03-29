@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/puya-araban-76a2a521b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm Lucian Araban, a final-year Cyber Security student with a strong passion for ethical hacking, digital forensics, and security automation. My goal is to transition into a cybersecurity role where I can apply my analytical skills to protect systems from evolving threats.
+I'm Pio Araban, a final-year Cyber Security student with a strong passion for ethical hacking, digital forensics, and security automation. My goal is to transition into a cybersecurity role where I can apply my analytical skills to protect systems from evolving threats.
 
 ## Objective
 
